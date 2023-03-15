@@ -1,14 +1,14 @@
 [
   {
+    "package": "POUMM",
+    "oncran": true
+  },
+  {
     "package": "PCMBase",
     "oncran": true
   },
   {
     "package": "PCMBaseCpp",
-    "oncran": true
-  },
-  {
-    "package": "POUMM",
     "oncran": true
   }
 ]
