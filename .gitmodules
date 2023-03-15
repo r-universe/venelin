@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "POUMM"]
-	path = POUMM
-	url = https://github.com/venelin/poumm
-	shallow = true
-	registered = true
 [submodule "PCMBase"]
 	path = PCMBase
 	url = https://github.com/venelin/pcmbase
@@ -16,5 +11,10 @@
 [submodule "PCMBaseCpp"]
 	path = PCMBaseCpp
 	url = https://github.com/venelin/pcmbasecpp
+	shallow = true
+	registered = true
+[submodule "POUMM"]
+	path = POUMM
+	url = https://github.com/venelin/poumm
 	shallow = true
 	registered = true
