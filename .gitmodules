@@ -8,6 +8,3 @@
 [submodule "PCMBaseCpp"]
 	path = PCMBaseCpp
 	url = https://github.com/venelin/pcmbasecpp
-[submodule "POUMM"]
-	path = POUMM
-	url = https://github.com/venelin/poumm
